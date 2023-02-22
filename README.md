@@ -1,4 +1,4 @@
-# First Whitelist Project
+# First NFT Project
 
 This is the coolDAO NFT contract for the free mint NFT project that will give access to Cool DAO
 
